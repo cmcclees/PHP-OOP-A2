@@ -1,14 +1,8 @@
 <?php
 
-//require_once 'db.php';
+require_once 'db.php';
 require('classes/Song.php');
 
-$host = 'itp460.usc.edu';
-$dbname = 'music';
-$user = 'student';
-$pass = 'ttrojan';
-
-$pdo = new PDO("mysql:host=$host;dbname=$dbname", $user, $pass);
 
 $song = new Song($pdo);
 $song->setTitle($_POST['title']);

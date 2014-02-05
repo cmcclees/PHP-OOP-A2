@@ -15,3 +15,4 @@ class GenreQuery {
         return $statement->fetchAll(PDO::FETCH_OBJ);
     }
 }
+?>

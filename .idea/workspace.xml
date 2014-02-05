@@ -22,97 +22,7 @@
     <favorites_list name="PHP-OOP-A2" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Song.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/classes/Song.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
-              <folding>
-                <marker date="1391538326000" expanded="true" signature="723:823" placeholder="INSERT INTO ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add-song-process.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/add-song-process.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="34" selection-start="304" selection-end="304" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="495">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArtistQuery.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/ArtistQuery.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="1" selection-start="373" selection-end="373" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="390">
-              <folding>
-                <marker date="1391538286000" expanded="true" signature="161:182" placeholder="SELECT * FRO..artists..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArtistMenu.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/ArtistMenu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="646" selection-end="646" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="540">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add-song.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/add-song.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="64" selection-start="187" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="660">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SongQuery.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/SongQuery.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="64" selection-start="506" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="660">
-              <folding>
-                <marker date="1391386565000" expanded="true" signature="159:207" placeholder="SELECT artis..songs..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenreMenu.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/GenreMenu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="66" selection-start="511" selection-end="511" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="495">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenreQuery.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/GenreQuery.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="1" selection-start="408" selection-end="408" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="330">
-              <folding>
-                <marker date="1391538292000" expanded="true" signature="156:176" placeholder="SELECT * FRO..genres..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -122,17 +32,17 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/db.php" />
         <option value="$PROJECT_DIR$/classes/SongQuery.php" />
         <option value="$PROJECT_DIR$/classes/Query.php" />
         <option value="$PROJECT_DIR$/classes/Product.php" />
         <option value="$PROJECT_DIR$/add-song.php" />
-        <option value="$PROJECT_DIR$/add-song-process.php" />
-        <option value="$PROJECT_DIR$/classes/GenreMenu.php" />
-        <option value="$PROJECT_DIR$/classes/ArtistMenu.php" />
         <option value="$PROJECT_DIR$/classes/ArtistQuery.php" />
-        <option value="$PROJECT_DIR$/classes/GenreQuery.php" />
+        <option value="$PROJECT_DIR$/add-song-process.php" />
         <option value="$PROJECT_DIR$/classes/Song.php" />
+        <option value="$PROJECT_DIR$/db.php" />
+        <option value="$PROJECT_DIR$/classes/ArtistMenu.php" />
+        <option value="$PROJECT_DIR$/classes/GenreMenu.php" />
+        <option value="$PROJECT_DIR$/classes/GenreQuery.php" />
       </list>
     </option>
   </component>
@@ -169,6 +79,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,7 +114,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,14 +148,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="22" width="1193" height="860" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23637888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23637888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -253,11 +163,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -279,9 +189,71 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/classes/Song.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <folding>
+            <marker date="1391564303000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add-song-process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="34" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/ArtistQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="405">
+          <folding>
+            <marker date="1391564282000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..artists..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/ArtistMenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="647" selection-end="647" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add-song.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="35" selection-start="187" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/GenreMenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="66" selection-start="511" selection-end="511" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/GenreQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="1" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="345">
+          <folding>
+            <marker date="1391564342000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..genres..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Song.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="36" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
           <folding>
-            <marker date="1391538326000" expanded="true" signature="723:823" placeholder="INSERT INTO ..." />
+            <marker date="1391564303000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -297,7 +269,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="30" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="555">
           <folding>
-            <marker date="1391538286000" expanded="true" signature="161:182" placeholder="SELECT * FRO..artists..." />
+            <marker date="1391564282000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..artists..." />
           </folding>
         </state>
       </provider>
@@ -323,15 +295,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/SongQuery.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="64" selection-start="506" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="660">
-          <folding>
-            <marker date="1391386565000" expanded="true" signature="159:207" placeholder="SELECT artis..songs..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/classes/GenreMenu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="53" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="495">
@@ -343,7 +306,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="30" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="495">
           <folding>
-            <marker date="1391538292000" expanded="true" signature="156:176" placeholder="SELECT * FRO..genres..." />
+            <marker date="1391564342000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..genres..." />
           </folding>
         </state>
       </provider>
@@ -352,21 +315,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
           <folding>
-            <marker date="1391538326000" expanded="true" signature="723:823" placeholder="INSERT INTO ..." />
+            <marker date="1391564303000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="4" selection-start="49" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="525" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/classes/ArtistQuery.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="21" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="555">
           <folding>
-            <marker date="1391538286000" expanded="true" signature="161:182" placeholder="SELECT * FRO..artists..." />
+            <marker date="1391564282000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..artists..." />
           </folding>
         </state>
       </provider>
@@ -392,15 +350,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/SongQuery.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="64" selection-start="506" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="660">
-          <folding>
-            <marker date="1391386565000" expanded="true" signature="159:207" placeholder="SELECT artis..songs..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/classes/GenreMenu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="41" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="270">
@@ -412,7 +361,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="0" selection-start="485" selection-end="549" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="495">
           <folding>
-            <marker date="1391538292000" expanded="true" signature="156:176" placeholder="SELECT * FRO..genres..." />
+            <marker date="1391564342000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..genres..." />
           </folding>
         </state>
       </provider>
@@ -421,28 +370,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="570">
           <folding>
-            <marker date="1391538326000" expanded="true" signature="723:823" placeholder="INSERT INTO ..." />
+            <marker date="1391564303000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="4" selection-start="49" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="525" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/classes/ArtistQuery.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="1" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="180">
           <folding>
-            <marker date="1391538286000" expanded="true" signature="161:182" placeholder="SELECT * FRO..artists..." />
+            <marker date="1391564282000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..artists..." />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Query.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="1" selection-start="523" selection-end="523" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="585" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db.php">
@@ -463,7 +402,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="0" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="330">
           <folding>
-            <marker date="1391538292000" expanded="true" signature="156:176" placeholder="SELECT * FRO..genres..." />
+            <marker date="1391564342000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..genres..." />
           </folding>
         </state>
       </provider>
@@ -478,88 +417,69 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="717" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Query.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="2" selection-start="128" selection-end="554" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="600" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/SongQuery.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="64" selection-start="506" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="660">
-          <folding>
-            <marker date="1391386565000" expanded="true" signature="159:207" placeholder="SELECT artis..songs..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../pdo_dvd/results.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="43" selection-start="728" selection-end="742" vertical-scroll-proportion="0.67099565" vertical-offset="0" max-vertical-offset="795" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Product.php">
+    <entry file="file://$PROJECT_DIR$/classes/ArtistQuery.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="5" selection-start="171" selection-end="465" vertical-scroll-proportion="0.56277055" vertical-offset="0" max-vertical-offset="693" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="148" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="165">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/add-song.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="64" selection-start="187" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="660">
-          <folding />
+        <state line="20" column="2" selection-start="376" selection-end="376" vertical-scroll-proportion="0.41899443" vertical-offset="0" max-vertical-offset="716">
+          <folding>
+            <marker date="1391564282000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..artists..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/add-song-process.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="34" selection-start="304" selection-end="304" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="495">
+        <state line="2" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.041899443" vertical-offset="0" max-vertical-offset="716">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Song.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="2" selection-start="1155" selection-end="1155" vertical-scroll-proportion="0.9586777" vertical-offset="9" max-vertical-offset="795">
+          <folding>
+            <marker date="1391564303000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="2" selection-start="157" selection-end="157" vertical-scroll-proportion="0.1420839" vertical-offset="0" max-vertical-offset="739">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/classes/ArtistMenu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="646" selection-end="646" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="540">
+        <state line="25" column="57" selection-start="595" selection-end="595" vertical-scroll-proportion="0.405954" vertical-offset="0" max-vertical-offset="739">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add-song.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.020297699" vertical-offset="0" max-vertical-offset="739">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/classes/GenreMenu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="66" selection-start="511" selection-end="511" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="495">
+        <state line="28" column="2" selection-start="710" selection-end="710" vertical-scroll-proportion="0.5683356" vertical-offset="0" max-vertical-offset="739">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/ArtistQuery.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="1" selection-start="373" selection-end="373" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="390">
-          <folding>
-            <marker date="1391538286000" expanded="true" signature="161:182" placeholder="SELECT * FRO..artists..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/classes/GenreQuery.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="1" selection-start="408" selection-end="408" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="330">
+        <state line="17" column="2" selection-start="411" selection-end="411" vertical-scroll-proportion="0.34506088" vertical-offset="0" max-vertical-offset="739">
           <folding>
-            <marker date="1391538292000" expanded="true" signature="156:176" placeholder="SELECT * FRO..genres..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Song.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
-          <folding>
-            <marker date="1391538326000" expanded="true" signature="723:823" placeholder="INSERT INTO ..." />
+            <marker date="1391564342000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..genres..." />
           </folding>
         </state>
       </provider>

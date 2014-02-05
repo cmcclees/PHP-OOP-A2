@@ -23,7 +23,7 @@ class ArtistMenu {
         foreach( $this->artists as $artist)
         {
             /*** add each option to the dropdown ***/
-            $dropdown .= '<option value="'.$artist->id.'>'.$artist->artist_name.'</option>'."\n";
+            $dropdown .= '<option value="'.$artist->id.'">'.$artist->artist_name.'</option>'."\n";
         }
 
         /*** close the select ***/
@@ -33,4 +33,5 @@ class ArtistMenu {
     }
 
 
-} 
+}
+?>

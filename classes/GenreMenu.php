@@ -16,7 +16,7 @@ class GenreMenu{
         foreach( $this->genres as $genre)
         {
             /*** add each option to the dropdown ***/
-            $dropdown .= '<option value="'.$genre->id.'>'.$genre->genre.'</option>'."\n";
+            $dropdown .= '<option value="'.$genre->id.'">'.$genre->genre.'</option>'."\n";
         }
 
         /*** close the select ***/
@@ -25,4 +25,5 @@ class GenreMenu{
         /*** and return the completed dropdown ***/
         return $dropdown;
     }
-} 
+}
+?>

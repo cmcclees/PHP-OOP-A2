@@ -44,4 +44,5 @@ class Song {
         $statement->bindParam(':price', $this->price);
         return $statement->execute();
     }
-} 
+}
+?>

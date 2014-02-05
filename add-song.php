@@ -1,15 +1,10 @@
 <?php
-//require_once 'db.php';
+require_once 'db.php';
 require_once 'classes/ArtistQuery.php';
 require_once 'classes/GenreQuery.php';
 require_once 'classes/ArtistMenu.php';
 require_once 'classes/GenreMenu.php';
-$host = 'itp460.usc.edu';
-$dbname = 'music';
-$user = 'student';
-$pass = 'ttrojan';
 
-$pdo = new PDO("mysql:host=$host;dbname=$dbname", $user, $pass);
 
 
 $artistQuery = new ArtistQuery($pdo);
